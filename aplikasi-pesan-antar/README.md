@@ -1,6 +1,6 @@
 # Aplikasi Pesan Antar
 
-Engine backend layanan antar makanan versi mini (proyek "2EZ4U APP"). Proyek Akhir **Struktur Data & Analisa Algoritma (EC234303)**, Departemen Teknik Komputer FTEIC-ITS.
+Engine backend layanan antar makanan versi mini. Proyek Akhir **Struktur Data & Analisa Algoritma (EC234303)**, Departemen Teknik Komputer FTEIC-ITS.
 Python 3.11+, tanpa dependensi luar (hanya `tkinter` bawaan Python untuk UI).
 
 Status: **M1, M2, M3 selesai** (M4–M6 belum; berkasnya masih kerangka kosong).
